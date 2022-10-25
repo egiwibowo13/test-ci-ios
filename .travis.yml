@@ -1,0 +1,5 @@
+language: swift
+osx_image: xcode13.2 
+xcode_project: test-ci-ios.xcodeproj
+xcode_scheme: test-ci-ios
+xcode_destination: platform=iOS Simulator,OS=15.2,name=iPhone 11 Pro
